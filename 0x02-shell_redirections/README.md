@@ -1,1 +1,1 @@
-shell redirections file
+inside 0x02-shell_redirections file
